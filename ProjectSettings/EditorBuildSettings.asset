@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 09a98dd3fc4f55f4986dce80316eddbe
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 0d7e184364f8422489314e413daf0737
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Preview.unity
+    guid: d8df402d1aacb414182434b3271358d5
+  - enabled: 1
+    path: Assets/Scenes/Bleed1.unity
+    guid: 255d26e7f504fb643856ecea38dc3144
+  - enabled: 1
+    path: Assets/Scenes/Bleed2.unity
+    guid: 7539e0e02415df641b60c1898d407516
+  - enabled: 1
+    path: Assets/Scenes/Bleed3.unity
+    guid: 6039c745937469f46bc130da08b78cb2
+  - enabled: 1
+    path: Assets/Scenes/Run1.unity
+    guid: adfdd41e633ac3f43a2ce74ab3c6e9ca
+  - enabled: 1
+    path: Assets/Scenes/Scream2.unity
+    guid: fe4a73d8747a26b4ba871da20ed72ef1
+  - enabled: 1
+    path: Assets/Scenes/Scream1.unity
+    guid: f8f7625edeac63844b92f7fa27270345
+  - enabled: 1
+    path: Assets/Scenes/Scream3.unity
+    guid: 378ffc005161ca14e82004dcbcb55ad3
+  - enabled: 1
+    path: Assets/Scenes/Scream4.unity
+    guid: 23590b8ceee28944e92c26ac820d06ef
+  - enabled: 1
+    path: Assets/Scenes/Scream5.unity
+    guid: 32165f9940121fb45af93b2ee925f0e8
+  - enabled: 1
+    path: Assets/Scenes/Gameover.unity
+    guid: 3a6031a8fc69b87458417b8c0f8d8dc5
+  - enabled: 1
+    path: Assets/Scenes/Run2.unity
+    guid: 455d9d02f552d544198705222c6cef70
+  - enabled: 1
+    path: Assets/Scenes/Bleed4.unity
+    guid: c6a9dea814704bb4081697775e209d5c
+  - enabled: 1
+    path: Assets/Scenes/Cutscene1.unity
+    guid: 21732884772d2d040aa2a9c162b45994
+  - enabled: 1
+    path: Assets/Scenes/Hub.unity
+    guid: 881f1920717ccd844a9e1a5f8b9596b4
+  - enabled: 1
+    path: Assets/Scenes/Easteregg.unity
+    guid: 396f1322107b1624caeaa25557c17730
+  - enabled: 0
+    path: Assets/Scenes/TestScene.unity
+    guid: ae43599c601610b43a10233d55d825b2
+  - enabled: 1
+    path: Assets/Scenes/Boss.unity
+    guid: 2c33c531e273bc446ba8ba2a59f4234d
+  - enabled: 1
+    path: Assets/Scenes/Epilogue.unity
+    guid: f113c01abb797294893deb3932c9ca90
+  m_configObjects: {}
